@@ -1,0 +1,14 @@
+C:\Users\fatec-ams-ds1\Documents\pal\exercicio 8 do laranja\exercicio 8 do laranja\bin\Debug\net10.0\exercicio 8 do laranja.exe
+C:\Users\fatec-ams-ds1\Documents\pal\exercicio 8 do laranja\exercicio 8 do laranja\bin\Debug\net10.0\exercicio 8 do laranja.deps.json
+C:\Users\fatec-ams-ds1\Documents\pal\exercicio 8 do laranja\exercicio 8 do laranja\bin\Debug\net10.0\exercicio 8 do laranja.runtimeconfig.json
+C:\Users\fatec-ams-ds1\Documents\pal\exercicio 8 do laranja\exercicio 8 do laranja\bin\Debug\net10.0\exercicio 8 do laranja.dll
+C:\Users\fatec-ams-ds1\Documents\pal\exercicio 8 do laranja\exercicio 8 do laranja\bin\Debug\net10.0\exercicio 8 do laranja.pdb
+C:\Users\fatec-ams-ds1\Documents\pal\exercicio 8 do laranja\exercicio 8 do laranja\obj\Debug\net10.0\exercicio 8 do laranja.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatec-ams-ds1\Documents\pal\exercicio 8 do laranja\exercicio 8 do laranja\obj\Debug\net10.0\exercicio 8 do laranja.AssemblyInfoInputs.cache
+C:\Users\fatec-ams-ds1\Documents\pal\exercicio 8 do laranja\exercicio 8 do laranja\obj\Debug\net10.0\exercicio 8 do laranja.AssemblyInfo.cs
+C:\Users\fatec-ams-ds1\Documents\pal\exercicio 8 do laranja\exercicio 8 do laranja\obj\Debug\net10.0\exercicio 8 do laranja.csproj.CoreCompileInputs.cache
+C:\Users\fatec-ams-ds1\Documents\pal\exercicio 8 do laranja\exercicio 8 do laranja\obj\Debug\net10.0\exercicio 8 do laranja.dll
+C:\Users\fatec-ams-ds1\Documents\pal\exercicio 8 do laranja\exercicio 8 do laranja\obj\Debug\net10.0\refint\exercicio 8 do laranja.dll
+C:\Users\fatec-ams-ds1\Documents\pal\exercicio 8 do laranja\exercicio 8 do laranja\obj\Debug\net10.0\exercicio 8 do laranja.pdb
+C:\Users\fatec-ams-ds1\Documents\pal\exercicio 8 do laranja\exercicio 8 do laranja\obj\Debug\net10.0\exercicio 8 do laranja.genruntimeconfig.cache
+C:\Users\fatec-ams-ds1\Documents\pal\exercicio 8 do laranja\exercicio 8 do laranja\obj\Debug\net10.0\ref\exercicio 8 do laranja.dll
