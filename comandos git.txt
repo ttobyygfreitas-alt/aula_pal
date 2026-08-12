@@ -1,0 +1,7 @@
+1°entrar na pasta pal
+2°cmd
+3°cd desktop 
+4°cd pal 
+5°git add . 
+6°git commit -m  "mensagem"
+7°git push
